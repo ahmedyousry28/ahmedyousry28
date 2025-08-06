@@ -1,7 +1,7 @@
 <div align="center">
 
-# Ahmed Yousry
-### full stack developer
+# Hi, I'm Ahmed Yousry 👋
+## *full stack developer*
 
 </div>
 
