@@ -1,5 +1,9 @@
+<div align="center">
+
 # Ahmed Yousry
-*full stack developer*
+### full stack developer
+
+</div>
 
 ---
 
@@ -59,21 +63,6 @@
 
 ### 🏆 Certifications
 - DEPI React Developer Track - Digital Egypt Pioneers Initiative (Ministry of Communications and Information Technology)
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyousry28&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyousry28&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyousry28&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
