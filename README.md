@@ -48,6 +48,17 @@
 ![Communication](https://img.shields.io/badge/Communication-9B59B6?style=for-the-badge&logo=communication&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-3498DB?style=for-the-badge&logo=project&logoColor=white)
 
+## 🎓 Education & Certifications
+
+### 📚 Education
+**Bachelor of Science in Computer Science**  
+*Zagazig University*  
+*Graduated: 2025*
+*Grade: Very Good*
+
+
+### 🏆 Certifications
+- DEPI React Developer Track - Digital Egypt Pioneers Initiative (Ministry of Communications and Information Technology)
 ---
 
 ## 📊 GitHub Stats
@@ -66,19 +77,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-
-### 📚 Education
-**Bachelor of Science in Computer Science**  
-*Zagazig University*  
-*Graduated: 2025*
-*Grade: Very Good*
-
-
-### 🏆 Certifications
-- DEPI React Developer Track - Digital Egypt Pioneers Initiative (Ministry of Communications and Information Technology)
-
----
 
 ## 🤝 Let's Connect
 
