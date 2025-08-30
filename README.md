@@ -55,7 +55,7 @@
 ## 🎓 Education & Certifications
 
 ### 📚 Education
-**Bachelor of Science in Computer Science**  
+**Bachelor of Engineering in Computer Science**  
 *Zagazig University*  
 *Graduated: 2025*
 *Grade: Very Good*
